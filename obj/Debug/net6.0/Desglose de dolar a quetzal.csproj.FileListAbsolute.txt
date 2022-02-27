@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\Desglose de dolar a quetzal\bin\Debug\net6.0\Desglose de dolar a quetzal.exe
+C:\Users\Usuario\source\repos\Desglose de dolar a quetzal\bin\Debug\net6.0\Desglose de dolar a quetzal.deps.json
+C:\Users\Usuario\source\repos\Desglose de dolar a quetzal\bin\Debug\net6.0\Desglose de dolar a quetzal.runtimeconfig.json
+C:\Users\Usuario\source\repos\Desglose de dolar a quetzal\bin\Debug\net6.0\Desglose de dolar a quetzal.dll
+C:\Users\Usuario\source\repos\Desglose de dolar a quetzal\bin\Debug\net6.0\ref\Desglose de dolar a quetzal.dll
+C:\Users\Usuario\source\repos\Desglose de dolar a quetzal\bin\Debug\net6.0\Desglose de dolar a quetzal.pdb
+C:\Users\Usuario\source\repos\Desglose de dolar a quetzal\obj\Debug\net6.0\Desglose de dolar a quetzal.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Desglose de dolar a quetzal\obj\Debug\net6.0\Desglose de dolar a quetzal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Desglose de dolar a quetzal\obj\Debug\net6.0\Desglose de dolar a quetzal.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Desglose de dolar a quetzal\obj\Debug\net6.0\Desglose de dolar a quetzal.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Desglose de dolar a quetzal\obj\Debug\net6.0\Desglose de dolar a quetzal.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Desglose de dolar a quetzal\obj\Debug\net6.0\Desglose de dolar a quetzal.dll
+C:\Users\Usuario\source\repos\Desglose de dolar a quetzal\obj\Debug\net6.0\ref\Desglose de dolar a quetzal.dll
+C:\Users\Usuario\source\repos\Desglose de dolar a quetzal\obj\Debug\net6.0\Desglose de dolar a quetzal.pdb
+C:\Users\Usuario\source\repos\Desglose de dolar a quetzal\obj\Debug\net6.0\Desglose de dolar a quetzal.genruntimeconfig.cache
